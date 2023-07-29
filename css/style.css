@@ -1,0 +1,56 @@
+section{
+     position: relative;
+}
+section #p1 h1{
+    
+   
+     padding-left: 40%;    
+     padding-right: 30%;
+     padding-top: 0;
+     padding-bottom: 0;
+    
+    
+     
+}
+section #p2  {
+     padding-left: 25px;
+     padding-right: 25px;
+     padding-top: 0px;
+     padding-bottom: 0px;
+    
+    
+}
+section #p2  span{
+     background-color: black;
+     color: white;
+}
+
+
+
+
+
+section {
+     
+     position: relative;
+}
+section #aboveimg {
+     position: absolute;
+      top: 200px;
+      
+     left: 40px;
+     right: 40px;
+   
+}
+section #aboveimg h1{
+     color: rgb(10, 9, 9);
+     font-size: 40px;
+     padding-bottom: 400;
+
+}
+section #aboveimg h1 span{
+     background-color: black;
+     color: white;
+}
+
+
+   
